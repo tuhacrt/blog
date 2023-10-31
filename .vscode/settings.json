@@ -38,6 +38,8 @@
     "jsonc",
     "yaml"
   ],
+
+  // Other settings
   "cSpell.words": [
     "consts"
   ]

@@ -35,7 +35,7 @@
     "typescript": "^5.2.2"
   },
   "simple-git-hooks": {
-    "pre-commit": "bunx lint-staged"
+    "pre-commit": "bun x lint-staged"
   },
   "lint-staged": {
     "*": "eslint --fix"

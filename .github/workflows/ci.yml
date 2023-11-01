@@ -56,7 +56,7 @@ jobs:
         run: bun i
 
       - name: Build
-        run: bun build:dev
+        run: bun build
 
       - name: Test
         run: bun test
